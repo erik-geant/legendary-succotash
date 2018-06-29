@@ -28,7 +28,9 @@
    returns an array containing all prime integers
    from the input array.
 
-6. Please do a code review of the
-   file `reports_controller.rb` in this repository.
+6. Please do a code review of the file
+   `reports_controller.rb` in this repository.
 
-7. 
+7. Please describe the suitability of the file
+   `site.cert` in this repository for use
+   with a web server.
